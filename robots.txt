@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://itorgersalf.github.io/sitemap.html
+Sitemap: https://itorgersalf.github.io/app/sitemap.html
+Sitemap: https://itorgersalf.github.io/assets/sitemap.html
+Sitemap: https://itorgersalf.github.io/css/sitemap.html
+Sitemap: https://itorgersalf.github.io/includes/sitemap.html
+Sitemap: https://itorgersalf.github.io/item/sitemap.html
+Sitemap: https://itorgersalf.github.io/src/sitemap.html
